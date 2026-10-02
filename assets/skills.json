@@ -1,0 +1,13 @@
+{
+  "title": "AI & Software Engineering",
+  "_comment": "Illustrative self-rated values (0-100); adjust to your current proficiency.",
+  "axes": [
+    {"label": "Python", "value": 78},
+    {"label": "Backend APIs", "value": 82},
+    {"label": "SQL & Databases", "value": 76},
+    {"label": "C++ / DSA", "value": 75},
+    {"label": "React / JS", "value": 78},
+    {"label": "Machine Learning", "value": 70},
+    {"label": "GenAI / RAG", "value": 62}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repositories. Confirm repo slugs exist under DipamJha.",
+  "projects": [
+    {"repo": "LinkForge", "description": "Async URL shortener with Base62 codes, custom aliases, expiration, Redis cache-aside, and privacy-aware analytics."},
+    {"repo": "RideBuddy", "description": "Ride-sharing coordination with Telegram bot commands, route alerts, and automated capacity handling."},
+    {"repo": "FoodScan", "description": "Food-label scanning web app to compare nutritional values, using React and FastAPI."},
+    {"repo": "Retail-Demand-Forecasting", "description": "Product-level demand forecasting and inventory optimization using historical sales and XGBoost."}
+  ]
+}
