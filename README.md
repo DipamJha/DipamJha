@@ -4,6 +4,8 @@
 <img src="assets/portrait.svg" width="300" alt="Dipam Chandra Jha, animated dot-matrix portrait">
 
 
+  
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Dipam+Chandra+Jha;AI%2FML+%26+Backend+Developer;Building+useful+things+with+code;Learning+%7C+Building+%7C+Improving" alt="Animated introduction">
 
