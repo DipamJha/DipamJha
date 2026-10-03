@@ -35,10 +35,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=DipamJha&style=flat&color=39D353&label=PROFILE+VIEWS"
-    alt="Profile views"
-  >
+  <img src="https://komarev.com/ghpvc/?username=DipamJha&style=flat&color=39D353&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 </div>
@@ -145,10 +142,6 @@ Hey! I'm **Dipam**, a Computer Science student specializing in **Artificial Inte
 
 <img src="assets/metrics.languages.svg" height="165" alt="Most used languages">
 
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
-
 </div>
 
 ---
@@ -167,18 +160,6 @@ Hey! I'm **Dipam**, a Computer Science student specializing in **Artificial Inte
 ---
 
 <div align="center">
-
-## `~/` beyond the code
-
-🏆 **1st place** — CodeCraft Hackathon
-
-⚡ **Top 10** — Code Forge Hackathon
-
-🚀 **College-level qualifier** — Smart India Hackathon 2024
-
-🤝 Organized a **3-hour departmental hackathon** for 180 students
-
-<br>
 
 <sub>“Build, learn, iterate.”</sub>
 
